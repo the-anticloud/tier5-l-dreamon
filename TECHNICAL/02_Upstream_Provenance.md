@@ -1,0 +1,28 @@
+# Upstream Provenance
+
+**Project:** `L_DREAMON`  
+**Tier:** TIER_5_WORLD_NEURO_EMBODIED  
+**Identity:** Upstream `BDR-Pro/arc-prize-2026-arc-agi-3` @ `b6bd1dc1b647` (unknown)
+
+## Recorded identity
+
+| Fact | Value |
+| --- | --- |
+| Upstream | `BDR-Pro/arc-prize-2026-arc-agi-3` |
+| Commit | `b6bd1dc1b6474aea5fbf82b55c6ae844ef140f1a` |
+| Upstream licence | unknown |
+| Licence class | unknown |
+| Clone size | 10.88 MB |
+| Ledger | 0 blocks, chain verified |
+| Current TRL | NOT YET MEASURED |
+| Post-optimisation TRL | NOT YET MEASURED |
+| II budget cap | 1000.0 IIU |
+| Verified upstream edits | 0 |
+
+## Obligation
+
+`L_DREAMON` is vendored under unknown (unknown). Any Anticloud edit to
+the vendored tree is a derivative work and is tracked in
+`anticloud-edits.json`; the notice of changes is at the project `NOTICE.md`.
+Where the licence class is `unknown`, no edit may be applied until the
+licence is identified, because the absence of a licence is not a grant.
